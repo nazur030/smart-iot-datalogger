@@ -20,9 +20,10 @@ Some implementation details are intentionally generalized to respect confidentia
 
 ## 📸 Hardware & Prototype
 
-<img width="2160" height="1141" alt="3D_SDL_GW_REV1 0_2026-01-17 (1)" src="https://github.com/user-attachments/assets/0fc514fb-9cb0-40a2-b652-c031a025355c" />
+<img width="2160" height="1141" alt="536958428-0fc514fb-9cb0-40a2-b652-c031a025355c" src="https://github.com/user-attachments/assets/3d20724e-de66-406b-bd31-9037fe9f8a5c" />
 
-<img width="794" height="588" alt="image" src="https://github.com/user-attachments/assets/42a7ae66-f00d-4e16-9dce-94fc359e5d13" />
+<img width="794" height="588" alt="536958328-42a7ae66-f00d-4e16-9dce-94fc359e5d13" src="https://github.com/user-attachments/assets/66268c1d-62f6-44c1-bda8-9bb50cf58591" />
+
 
 ## 2. System Architecture
 
@@ -37,7 +38,8 @@ At a high level, the system flow is:
 
 ### 📐 Architecture Diagram
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/80d4cef5-7f4f-41ea-854f-7288d37b0943" />
+<img width="1536" height="1024" alt="536960645-80d4cef5-7f4f-41ea-854f-7288d37b0943" src="https://github.com/user-attachments/assets/d1f338f7-1e4f-4e95-af9b-23c048a29b86" />
+
 
 ## 3. Hardware Design
 
@@ -92,9 +94,10 @@ and compatibility with industrial devices.
 
 ### 📸 Hardware Design Images
 
-<img width="901" height="642" alt="image" src="https://github.com/user-attachments/assets/8874f59f-1682-433d-82f1-90873ce634fc" />
+<img width="901" height="642" alt="536960495-8874f59f-1682-433d-82f1-90873ce634fc (1)" src="https://github.com/user-attachments/assets/b30764d6-aa54-4498-8140-cf6acefde2b4" />
 
-<img width="986" height="720" alt="image" src="https://github.com/user-attachments/assets/84949710-4717-4d11-b529-e5673780f28f" />
+<img width="986" height="720" alt="536960290-84949710-4717-4d11-b529-e5673780f28f" src="https://github.com/user-attachments/assets/7fbceace-6ed5-40e1-8f84-ff9eae23d539" />
+
 
 ## 5. Communication & Backend Integration
 
@@ -152,11 +155,11 @@ Received data is:
   - Data inspection for debugging and validation
 
 #### Database View (phpMyAdmin)
-<img width="1624" height="458" alt="image" src="https://github.com/user-attachments/assets/5105491e-9e17-4193-866e-064929a766de" />
-
+<img width="1624" height="458" alt="537094253-5105491e-9e17-4193-866e-064929a766de" src="https://github.com/user-attachments/assets/b82fac24-dbbf-4011-a897-6ba479e4a6b9" />
 
 #### Simple Dashboard View
-<img width="1307" height="361" alt="image" src="https://github.com/user-attachments/assets/bd925805-650f-498e-972f-6b066ae1fe30" />
+<img width="1307" height="361" alt="537094566-bd925805-650f-498e-972f-6b066ae1fe30" src="https://github.com/user-attachments/assets/4caf1c00-b0e0-456d-b827-0a4ec6be02a0" />
+
 
 > Dashboard implementation is intentionally kept simple and is not production-grade.
 
@@ -164,6 +167,6 @@ Received data is:
 
 ### 📸 Communication & Dashboard Images
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e86970c-4f0d-414e-8915-5b0430bb8f81" />
+<img width="1536" height="1024" alt="536962482-1e86970c-4f0d-414e-8915-5b0430bb8f81" src="https://github.com/user-attachments/assets/4aa72b7e-ca36-4f35-ac7e-9afb2f969537" />
 
 Overall, this project reinforced the importance of **building reliable foundations** before optimizing for performance or scalability in IoT applications.
